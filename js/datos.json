@@ -1,0 +1,77 @@
+{
+    "estudios": [
+        {
+            "titulo":"Ingeniero en sistemas",
+            "periodo":"Enero 2001 - Diciembre 2006",
+            "lugar":"Universidad Buenos Aires",
+            "logo":"/imagenes/logo_uba.gif"
+        },
+        {
+            "titulo":"Diplomatura en IA",
+            "periodo":"Mayo 2011 - Diciembre 2016",
+            "lugar":"Universidad de Palermo",
+            "logo":"/imagenes/logoUP.png"
+        },
+        {
+            "titulo":"Engineering Project Manager",
+            "periodo":"Marzo 2020 - Hasta la fecha",
+            "lugar":"Universidad de Palermo",
+            "logo":"/imagenes/logoUP.png"
+        }
+    ],
+    "trabajos": [
+        {
+            "puesto":"Auxiliar de catedra",
+            "periodo":"Enero 2011 - Enero 20016",
+            "lugar":"Universidad Buenos Aires",
+            "logo":"/imagenes/logo_uba.gif"
+        },
+        {
+            "puesto":"Desarrollador Junior",
+            "periodo":"Enero 2020 - Enero 2021",
+            "lugar":"Globant",
+            "logo":"/imagenes/globant-logo-dark.svg"
+        }
+    ],
+    "habilidades": [
+        {
+            "area":"Java",
+            "porcentaje": 90
+        },
+        {
+            "area":"JavaScript",
+            "porcentaje": 75
+        },
+        {
+            "area":"HTML",
+            "porcentaje": 95
+        },
+        {
+            "area":"CSS",
+            "porcentaje": 60
+        },
+        {
+            "area":"Nodejs",
+            "porcentaje": 50
+        }
+    ],
+    "proyectos": [
+        {
+            "rol":"ayudante en codificación",
+            "periodo":"Diciembre 2004 - Mayo 2005",
+            "descripcion":"Sitio web para la Universidad Buenos Aires"
+        },
+        {
+            "rol":"mantenimiento de sistema",
+            "periodo":"Diciembre 2004 - Mayo 2005",
+            "descripcion":"Base de datos de alumnos de la Universidad Buenos Aires"
+        },
+        {
+            "rol":"diseño y desarrollo",
+            "periodo":"Diciembre 20014 - Mayo 20017",
+            "descripcion":"Aplicación para manejo de materiales en fabrica de aberturas"
+        }
+    ]
+
+
+}

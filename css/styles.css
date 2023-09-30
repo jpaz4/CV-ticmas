@@ -1,0 +1,76 @@
+#ImagenPersona {
+    margin-top: 50px;
+   
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.aLaDerecha {
+    float: right;
+}
+
+a {
+ text-decoration: none;
+ font-size: 17px;
+}
+
+p {
+    font-size: 17px;
+}
+
+a:hover {
+    color: blue !important;
+}
+
+i {
+    font-size: 25px;
+}
+
+.img-circulo {
+    background: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.colorLetra {
+    color: #fbffe3;
+}
+.datosPersonales {
+    margin-top: 100px;
+}
+
+.espacioBotton {
+    margin-bottom: 50px;
+}
+
+.seccion1 {
+    background-color: #040D12; /* #fbffe3; */
+    color: #fbffe3;
+}
+
+.seccion2 {
+    background-color: #183D3D;
+    color: #fae396;
+}
+.seccion3 {
+    background-color: #5C8374;
+    color: #ebf8b6;
+}
+.seccion4 {
+    background-color: #93B1A6;
+}
+.seccion5 {
+    background-color: #e3ffe4;
+}
+
+.margenes {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.lineaAmarilla {
+    color: #fae396;
+}
